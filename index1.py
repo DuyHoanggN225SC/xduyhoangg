@@ -6,7 +6,7 @@ import discord
 from discord.ext import commands
 from concurrent.futures import ThreadPoolExecutor
 
-TOKEN = ""
+TOKEN = "MTM1NTA0MDEzODg4NzE3MjE5Nw.GzZ2G0.d73ji8-0l78jdyz_awcBofpOM3kyFm8-TEP3TA"
 CHANNEL_ID = 1355924705000816693
 
 running_tasks = {}
